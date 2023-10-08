@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libmcpp.a CMakeFiles/mcpp.dir/src/block.cpp.o CMakeFiles/mcpp.dir/src/connection.cpp.o CMakeFiles/mcpp.dir/src/mcpp.cpp.o CMakeFiles/mcpp.dir/src/util.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libmcpp.a
